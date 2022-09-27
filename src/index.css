@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+*
+{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body
+{
+  min-height: 100vh;
+  min-width: 100vw;
+  /* background: linear-gradient( rgb(150, 169, 254), rgb(250,250,250)); */
+  background: linear-gradient(rgb(250,250,250), rgb(235, 235, 235), rgb(69, 95, 209));
+}
+
+#root
+{
+  position: relative;
+  min-height: 100vh;
+}
+
